@@ -14,3 +14,6 @@ energy policy agenda-setting lessons.
 
 
 **Carbon Trading Comparative Analysis:** The EU Emissions Trading Scheme (EU ETS) is compared and evaluated alongside California's Cap and Trade (C&T) Scheme. Evaluation using a literature review and emperical analysis of recent emissions data is conducted. Additionally, policy efficiency of the schemes is compared other policy instruments. The theoretical literature extending the findings of Weitzman, 1974, argue that a Carbon Tax is more efficient. This essay challenges that literature, arguing the existing carbon trading schemes are prefferable. 
+
+
+**Energy Crisis Policy Response:** This policy brief reflects on Ireland's response to the 2022 energy crisis precipitated by Russia's invasion of Ukraine, to inform a hypothetical emergency response to closure of the Strait of Hormuz. Shortcomings of the 2022 response are highlighted, including rising energy poverty, and a failure to accelerate key infrastructure delivery. Price dynamics are analysed, and adjustments to fiscal support and infrastructure delivery are recommended.
