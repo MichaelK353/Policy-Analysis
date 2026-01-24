@@ -8,3 +8,6 @@ Streams framework (Kingdon, 1984) to explain Poland’s original decision to dev
 why the programme failed, and why it has restarted. The analysis provides timely decision-making
 guidance as Poland’s plans for a new nuclear power plant enter an advanced stage, as well as wider
 energy policy agenda-setting lessons.
+
+
+**Technology Policy Stringency and Greenhouse Gas Emissions:** Statistical/Econometric analysis of the relationship between technology policy stringency and GHG Emissions reductions. First Difference OLS and Differenence-in-Difference models were used to investigate causality. Policy recommendations were made based on the findings.
