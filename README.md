@@ -11,3 +11,6 @@ energy policy agenda-setting lessons.
 
 
 **Technology Policy Stringency and Greenhouse Gas Emissions:** Statistical/Econometric analysis of the relationship between technology policy stringency and GHG Emissions reductions. First Difference OLS and Differenence-in-Difference models were used to investigate causality. Policy recommendations were made based on the findings.
+
+
+**Carbon Trading Comparative Analysis:** The EU Emissions Trading Scheme (EU ETS) is compared and evaluated alongside California's Cap and Trade (C&T) Scheme. Evaluation using a literature review and emperical analysis of recent emissions data is conducted. Additionally, policy efficiency of the schemes is compared other policy instruments. The theoretical literature extending the findings of Weitzman, 1974, argue that a Carbon Tax is more efficient. This essay challenges that literature, arguing the existing carbon trading schemes are prefferable. 
