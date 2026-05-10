@@ -1,5 +1,5 @@
 # Policy-Analysis
-Policy Analysis and Writing Samples
+Policy Analysis Research
 
 1. **Technology Policy Stringency and Greenhouse Gas Emissions:** Statistical/Econometric analysis of the relationship between technology policy stringency and GHG Emissions reductions. First Difference OLS and Differenence-in-Difference models were used to investigate causality. Policy recommendations were made based on the findings.
 
